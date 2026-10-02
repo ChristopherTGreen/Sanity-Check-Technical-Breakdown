@@ -1,4 +1,4 @@
-# Sanity-Check-Technical-Breakdown WIP
+# Sanity-Check-Technical-Breakdown (WIP)
 Snippet and technical breakdown of the elements worked on for the game, Sanity Check, a 5-person submission for the Brackey's Game Jam.
 
 - Currently Being Worked On
