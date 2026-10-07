@@ -66,11 +66,11 @@ Each room is stored in a class data, structured as WorldState >> RoomState >> Ro
 
 
 ## Object Generation (WIP)
-<img width="4095" height="6044" alt="image" src="https://github.com/user-attachments/assets/a78f0e4b-2e4f-4164-b2e7-d2aed96c2902" />
-<img width="4095" height="4683" alt="image" src="https://github.com/user-attachments/assets/bde63e2b-4535-4eaf-8a79-68651c77290a" />
+<img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/a78f0e4b-2e4f-4164-b2e7-d2aed96c2902" />
+<img width="500" height="560" alt="image" src="https://github.com/user-attachments/assets/bde63e2b-4535-4eaf-8a79-68651c77290a" />
 
 
 
-Still Work In Progress, will be posting Miro and Whiteboard design research and exploration
+# Still Work In Progress, will be posting Miro and Whiteboard design research and exploration
 
 
